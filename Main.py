@@ -8,7 +8,6 @@ import pandas as pd
 import Gui
 import os
 
-
 def create_server_connection():
     connection = None
     try:
