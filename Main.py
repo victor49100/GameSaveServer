@@ -12,10 +12,10 @@ def create_server_connection():
     connection = None
     try:
         connection = mysql.connector.connect(
-            host="127.0.0.1",  # ici l'ip de la BDD
-            user="root",
-            passwd="root",
-            database="SaveGame2"
+            host="82.66.184.236",  # ici l'ip de la BDD
+            user="victor2",
+            passwd="freebox",
+            database="SaveGame"
         )
         print("MySQL Database connection successful")
     except Error as err:
