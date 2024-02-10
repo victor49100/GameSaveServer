@@ -1,7 +1,0 @@
-BDD Store 
-
-zipFileSaveGames 5_History SavePath gameName
-
-82.66.184.236
-
-test gitgnore
